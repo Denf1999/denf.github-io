@@ -1,0 +1,9 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table, tr, td, th {
+    border: 1px solid blue;
+    border-collapse: collapse;
+    padding: 15px;
+}
